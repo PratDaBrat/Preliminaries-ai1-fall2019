@@ -8,8 +8,5 @@ Mac users have git pre-installed. If you are a linux user, we'll assume you know
 
 In Anaconda run the Jupyter Lab interface from the Anaconda GUI. Then open `intropython.ipynb` and `git.ipynb` in that interface.
 
-On all OS's open a terminal with bash running. On OSX this is `Terminal.app`, on linux `New Terminal`, and on windows `git-bash` terminal. The git commands in `git.ipynb` are intended to be carried out from this shell.
-
-
-
+LOLOL
 
